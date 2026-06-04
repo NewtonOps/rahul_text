@@ -1,1 +1,2 @@
-print("hy bruh whats app")
+x="hey bruh wats app"
+print(x)
